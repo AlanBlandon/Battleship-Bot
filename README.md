@@ -10,6 +10,7 @@ Features
 
 ## Contributors
 <a href="https://github.com/AlanBlandon">Alan Blandon</a>
+<br/>
 <a href="https://github.com/wilbertrodriguez">Wilbert Rodriguez</a>
 <a href="https://github.com/TommyLe3825">Tommy Le Legend</a>
 <a href="https://github.com/barrotbake">Jacob Nguyen</a>
