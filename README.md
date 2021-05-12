@@ -12,6 +12,9 @@ Features
 <a href="https://github.com/AlanBlandon">Alan Blandon</a>
 <br/>
 <a href="https://github.com/wilbertrodriguez">Wilbert Rodriguez</a>
+<br/>
 <a href="https://github.com/TommyLe3825">Tommy Le Legend</a>
+<br/>
 <a href="https://github.com/barrotbake">Jacob Nguyen</a>
+<br/>
 <a href="">Andrew Lau</a>
