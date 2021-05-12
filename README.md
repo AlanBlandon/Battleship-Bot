@@ -4,6 +4,7 @@
 
 Features
 [X] Start a game of Battleship in your discord server 🎮
+
 [X] Loads of fun 🥳
 
 ## Contributors
