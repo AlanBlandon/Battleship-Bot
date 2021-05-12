@@ -3,6 +3,7 @@
 ## Epic battle of wits(or just cheating if you're Tommy 👿)
 
 Features
+
 [X] Start a game of Battleship in your discord server 🎮
 
 [X] Loads of fun 🥳
