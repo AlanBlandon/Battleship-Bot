@@ -3,8 +3,8 @@
 ## Epic battle of wits(or just cheating if you're Tommy 👿)
 
 Features
-[] Start a game of Battleship in your discord server 🎮
-[] Loads of fun 🥳
+[X] Start a game of Battleship in your discord server 🎮
+[X] Loads of fun 🥳
 
 ## Contributors
 <a href="https://github.com/AlanBlandon">Alan Blandon</a>
