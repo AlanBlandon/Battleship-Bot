@@ -4,7 +4,6 @@
 
 Features
 [] Start a game of Battleship in your discord server 🎮
-[] Clown on Alan 🤡
 [] Loads of fun 🥳
 
 ## Contributors
