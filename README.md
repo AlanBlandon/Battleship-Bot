@@ -7,7 +7,7 @@
 <br />`git pull origin main`
 3. Commit and push your changes
 4. Make a Pull Request in the Pull Request tab of Github
-5. Ask someone to review your code!+ 
+5. Ask someone to review your code!
 
 ## Epic battle of wits(or just cheating if you're Tommy 👿)
 
