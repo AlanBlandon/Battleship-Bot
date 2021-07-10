@@ -2,7 +2,7 @@
 
 #How to Contribute
 1. Make a new branch with
-  git checkout -b "yourbranchname"
+  'git checkout -b "yourbranchname"'
 2. Make sure to pull changes before you start your work
   git pull origin main
 3. Commit and push your changes
