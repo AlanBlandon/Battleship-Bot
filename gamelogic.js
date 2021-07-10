@@ -10,7 +10,7 @@ let didHit = (targetSquareNum, targetSquareLetter, targetGrid) => {
 //Example of a ship object
 //It just has two arrays to show the ships cords and if they have been hit
 let exampleShip = {
-    cords:["A1", "B2", "C3"],
+    cords:[["A", "1"],["B", "2"], ["C", "3"]],
     hit:[true, true, true]
 }
 
