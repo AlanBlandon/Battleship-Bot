@@ -2,9 +2,9 @@
 
 #How to Contribute
 1. Make a new branch with
-  <br />`git checkout -b "yourbranchname"`
+<br />`git checkout -b "yourbranchname"`
 2. Make sure to pull changes before you start your work
-  git pull origin main
+<br />`git pull origin main`
 3. Commit and push your changes
 4. Make a Pull Request in the Pull Request tab of Github
 5. Ask someone to review your code!+ 
