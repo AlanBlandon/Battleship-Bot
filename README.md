@@ -1,7 +1,5 @@
 # Battleship-Bot 🚢
 
-#Which Clown 🤡?
-
 #How to Contribute
 1. Make a new branch with
 <br />`git checkout -b "yourbranchname"`
